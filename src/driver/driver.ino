@@ -26,6 +26,8 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <https://unlicense.org>
 
 Original author: Vidas Simkus (vic.simkus@simkus.com) 2022-04-17
+https://www.simkus.com
+
 */
 
 // Brute force way to reboot
