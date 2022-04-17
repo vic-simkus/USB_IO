@@ -64,3 +64,11 @@ ii --- End of Help ---
 ```
 
 All output from the software has either a ```ii ``` or ```!! ```  as the first three characters (the third/last character is a space).  Any output beginning with ```ii``` is informational.  Any output beginning with ```!!``` is error.
+
+# Home
+https://github.com/vic-simkus/YAUBOB
+
+# Author
+Vidas Simkus (vic.simkus@simkus.com)
+
+https://www.simkus.com
