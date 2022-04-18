@@ -216,7 +216,8 @@ void loop()
 	if( timerB > timerA)
 	{
 		// Lets not overthink this ...
-		timerA = timerA + (timerB - timerA);
+		printInfo("Timer wrap");
+		lastClickTimerUs = timerA;
 	}
 
 	// At this point timerA contains the most recentish timestamp
